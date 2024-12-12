@@ -3,7 +3,9 @@
 A simple Next.js application that demonstrates sending SMS messages using Twilio and shadcn UI components.
 
 ```
-Created by All-Hands.dev, see TRANSCRIPT.md for the development transcript.
+Note from the human
+
+Created by All-Hands.dev CodeActAgent, see TRANSCRIPT.md for the development transcript.
 Operation took 18 minutes to complete.
 Cost $0.44 using Claude 3.5 Sonnet 2024-10-22.
 ```
