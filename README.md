@@ -2,6 +2,11 @@
 
 A simple Next.js application that demonstrates sending SMS messages using Twilio and shadcn UI components.
 
+```
+Created by All-Hands.dev, see TRANSCRIPT.md for the development transcript
+```
+
+
 ## Features
 
 - Modern UI built with Next.js and shadcn UI
